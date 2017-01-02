@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n\ t
+comment0.target=Trainer(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getBag()
+comment3.params=n\ t\ l
+comment3.target=void\ capture(java.lang.String,\ java.lang.String,\ int)
+comment3.text=\r\n\ \ \ \ public\ void\ increaseSize()\ {\r\n\ \ \ \ \ \ \ \ Pokemon[]\ temp\ \=\ new\ Pokemon[bag.length\ +\ 2];\r\n\ \ \ \ \ \ \ \ for\ (int\ i\ \=\ 0;\ i\ <\ bag.length;\ i++)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ temp[i]\ \=\ bag[i];\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ bag\ \=\ temp;\r\n\ \ \ \ }\r\n
+numComments=4

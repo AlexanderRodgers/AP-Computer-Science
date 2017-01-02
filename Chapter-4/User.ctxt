@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fn\ ln\ em\ pwd
+comment0.target=User(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=fn
+comment1.target=void\ setFirst(java.lang.String)
+comment2.params=ln
+comment2.target=void\ setLast(java.lang.String)
+comment3.params=em
+comment3.target=void\ setEmail(java.lang.String)
+comment4.params=pwd
+comment4.target=void\ setPassword(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

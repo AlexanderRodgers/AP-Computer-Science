@@ -1,10 +1,12 @@
 
-/**
-//   Card.java 
-//   @author Arnold Gauthier
-//   Represents a Card with a face and a suit. 
-//   11/27/2016
- */
+/*******
+*   Card.java 
+*   @author Alex Rodgers
+*   11/27/2016
+*  
+*   Creates a card object to hold face, suit, and value.
+********/
+
 public class Card
 {
     private String face;

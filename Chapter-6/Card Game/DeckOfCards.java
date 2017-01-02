@@ -1,10 +1,11 @@
 
-/**
-//   DeckOfCards.java 
-//   @author Arnold Gauthier
-//   Contains a deck of Card objects.  Methods to shuffle and deal Cards.
-//   11/27/2016
- */
+/*******
+*   DeckOfCards.java 
+*   @author Alex Rodgers
+*   11/27/2016
+*  
+*   Contains a deck of Card objects.  Methods to shuffle and deal Cards.
+********/
 public class DeckOfCards
 {
     private Card deck[];

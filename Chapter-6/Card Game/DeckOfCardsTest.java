@@ -1,10 +1,11 @@
 import java.util.Scanner;
-/**
-//   DeckOfCardsTest.java 
-//   @author Arnold Gauthier
-//   11/27/2016
-//   Tester program to shuffle and deal a deck of Card objects
- */
+/*******
+*   DeckOfCardsTest.java 
+*   @author Alex Rodgers
+*   11/27/2016
+*  
+*   Driver for the blackjack game.
+********/
 public class DeckOfCardsTest
 {
     public static void main (String[] args)  {
